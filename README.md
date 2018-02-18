@@ -38,7 +38,7 @@ Run your app as normal. If you created a project without an activity, you may ne
 
 Now, the first time you install the app it will not immediately appear in the launcher. Either reboot the watch, or run `adb shell am force-stop com.huami.watch.launcher` to restart the launcher
 
-After this it should appear as the last page. If it has, well done! If not, check you followed every step correctly (particularly the arrays.xml and AndroidManifest.xml ones). Still not working? Post on the XDA thread
+After this it should appear as the last page. If it has, well done! If not, check you followed every step correctly (particularly the arrays.xml and AndroidManifest.xml ones). Still not working? [Post on the XDA thread](https://forum.xda-developers.com/smartwatch/amazfit/dev-create-custom-home-screen-pages-pace-t3751731)
 
 ## Moving the page
 There's no built in way to move or disable the page on the watch or the Amazfit app. Luckily, [I've already got a solution for that](https://github.com/KieronQuinn/AmazfitSpringboardSettings)
