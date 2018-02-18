@@ -25,7 +25,7 @@ Place this inside your application tags, as shown in the example in this project
 
 ### arrays.xml (app/src/main/res/values)
 
-Copy this file to your project (or create the file and copy the contents), then edit the contents of the <item> </item> tags to point to your SpringboardPage class.
+Copy this file to your project (or create the file and copy the contents), then edit the contents of the \<item> \</item> tags to point to your SpringboardPage class.
 
 If you rename your SpringboardPage class, you **must** change it here also. Make sure the package name **and** component is correct here, or the page will not work
 
