@@ -6,7 +6,7 @@ This project is an example for how to create a custom page for the default home 
 You don't need to import this project and edit it from there. There's only a couple of important files and pieces of code:
 
 ### SpringboardPluginLib.jar (app/libs)
-Disassembled code from the HmAlarmClock app, with all but the plugin code removed. Copy this to the libs folder of your project, and then include it like so:
+Disassembled code from the HmAlarmClock app, with all but the plugin code removed. [Download it](https://github.com/KieronQuinn/AmazfitSpringboardPluginExample/raw/master/app/libs/SpringboardPluginLib.jar), copy it to the libs folder of your project, and then include it like so:
 
 ![File > Project Structure > Dependencies](https://i.imgur.com/xIrVhJp.png)
 
